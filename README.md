@@ -1,16 +1,9 @@
 # todomovie
 
-A new Flutter project.
+This application allows you to easily manage a ToDo list of currently screening and upcoming movies! At present, it only has the above-mentioned features, but in the future, we plan to add:
 
-## Getting Started
+- A recommendation feature based on the trends of movies you've watched
+- Displaying showtimes at nearby theaters using location information
+- Statistical information such as the number of times you've watched a movie and the frequency (wouldn't it be nice to know how much of a movie buff you are?)
 
-This project is a starting point for a Flutter application.
-
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+**Thank you for your support!**
