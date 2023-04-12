@@ -1,10 +1,10 @@
 import 'package:flutter/material.dart';
 import 'package:provider/provider.dart';
-import 'package:hello_world/models/todo.dart';
-import 'package:hello_world/models/todo_list.dart';
-import 'package:hello_world/widgets/new_todo_dialog.dart';
-import 'package:hello_world/widgets/todo_list_view.dart';
-import 'package:hello_world/widgets/done_todo_list_view.dart';
+import 'package:todomovie/models/todo.dart';
+import 'package:todomovie/models/todo_list.dart';
+import 'package:todomovie/widgets/new_todo_dialog.dart';
+import 'package:todomovie/widgets/todo_list_view.dart';
+import 'package:todomovie/widgets/done_todo_list_view.dart';
 
 void main() {
   runApp(

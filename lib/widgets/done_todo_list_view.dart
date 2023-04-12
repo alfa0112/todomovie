@@ -1,6 +1,6 @@
 import 'package:flutter/material.dart';
 import 'package:provider/provider.dart';
-import 'package:hello_world/models/todo_list.dart';
+import 'package:todomovie/models/todo_list.dart';
 import 'todo_item.dart';
 
 class DoneTodoListView extends StatelessWidget {
